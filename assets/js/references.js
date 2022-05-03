@@ -7,34 +7,34 @@ const referenceTable = document.querySelector(".pain");
 const references = [
   {
     sl1: 1,
-    name1 : "Smaranjit Ghose",
-        designation1 : "Product Manager, Microsoft",
-        image1 : "https://avatars.githubusercontent.com/u/46641503?v=4",
-        message1 : "John is a conscientious individual whom I mentored during JWOC'2021. His problem-solving skills and a keen interest in learning new skillsets are remarkable. His hardworking nature and team-building abilities make him different from others.",
+    name1 : "Dr.Bot",
+        designation1 : "Chief Executive Officer, Mystic Warrior",
+        image1 : "https://avatars.githubusercontent.com/u/84830141?v=4",
+        message1 : "Dr.Bot is a conscientious individual whom I met during the starting phase of Mystic Warrior. His maturity and skill-sets towards discord.js module are remarkable. His  nature and knowledge abilities make him stand out of the crowd.",
         
 
         sl2:2,
-        name2 : "Anush Bhatia",
-        designation2 : "Senior Analyst, Capgemini", 
-        image2: "https://avatars.githubusercontent.com/u/40017559?v=4",
-        message2 : "John has the best grasping skills I have seen in a new developer. I got to know him through GSSOC'2021 when I mentored him, and he made an exceptional growth during the competition. He made some incredible contributions and has good experience with Open Source.",
+        name2 : "Saplex",
+        designation2 : "Founder,SaplexG 2.0", 
+        image2: "https://avatars.githubusercontent.com/u/89736361?v=4",
+        message2 : "Saplex could be called as one of my Co-Developers for my bot. We both help each other and learn together. Saplex still remains as an inspriration for why this bot is up and running till now. His Discord Skill sets is the big advantage for him.",
         
         
     },
 
     {
         sl1:3,
-        name1 : "Aditya Jyoti Paul",
-        designation1 : "Technical Analyst, Amazon",
+        name1 : "Nikolipo",
+        designation1 : "Founder, Joe Biden Discord Bot",
         image1 : "https://media-exp1.licdn.com/dms/image/C5603AQGEV-kzawPxjw/profile-displayphoto-shrink_800_800/0/1588602102622?e=1651708800&v=beta&t=8nxhFoR-WB4OKVltyYaVjmRpig_kQcvFsoa-eLjJPBQ",
-        message1 : "John and I have worked on several projects. Apart from technical skills, he also has good soft skills. He has good experience with debugging and has excellent leadership qualities.",
+        message1 : "nikolipo is a kind of kid who cries for everything every for imaginary things like 'discord.py' is better than 'discord.js'. It may seem funny but his sole criticism has helped me make Mystic Warrior better. P.s It is still better than Joe Biden. ",
         
 
         sl2:4,
-        name2 : "Arnab Dutta Purkayastha",
-        designation2 : "Data Scientist, Flipkart",
-        image2 : "https://avatars.githubusercontent.com/u/59832779?v=4",
-        message2 : "John and I worked together during a hackathon and the thing that surprised me the most about him was his knowledge of fundamentals. He offered sincere help to the team throughout the competition. He is an impressive problem solver who is able to address complex issues strategically and confidently.",
+        name2 : "Lengo",
+        designation2 : "Founder, Lengo Labs and Q Bot",
+        image2 : "https://avatars.githubusercontent.com/u/28582329?v=4",
+        message2 : "Lengo was one of the reason I started to code Roblox and Discord Bots.You could approach his server if you have any kind of doubts and you could get it clarified. He also inspired me to code stuff which I do now. If I am standing here it is all due to Lengo's Bot which inspired me to code a bot which now I do for a living.",
   },
 ];
 
